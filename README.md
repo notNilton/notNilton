@@ -21,3 +21,10 @@ Software Engineer focused on backend systems, distributed architectures, and ful
 - **[tailscale-monitor](https://github.com/notNilton/tailscale-monitor)** — Decentralized monitoring agent and dashboard for Tailscale mesh networks.
 - **[aiicap](https://github.com/notNilton/aiicap)** — Automated artifact correction, edge sharpening, and color quantization pipeline for AI-generated pixel art.
 - **[dynamic-vpl-optimizer](https://github.com/notNilton/dynamic-vpl-optimizer)** — Linear programming project selection optimizer utilizing PuLP and SQLite.
+
+
+## Documentation
+
+- [📋 Roadmap & TODOs](docs/TODO.md) - Planned features and project roadmap
+- [📐 Architecture](docs/ARCHITECTURE.md) - System architecture and components
+- [📄 License](LICENSE) - MIT License
